@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_homnay"
+            android:icon="@drawable/lich"
+            android:title="@string/nav_homnay" />
+        <item
+            android:id="@+id/nav_baitap"
+            android:icon="@drawable/sport"
+            android:title="@string/nav_baitap" />
+        <item
+            android:id="@+id/nav_muctieu"
+            android:icon="@drawable/muctieu"
+            android:title="@string/nav_muctieu" />
+        <item
+            android:id="@+id/nav_nangcap"
+            android:icon="@drawable/muctieu"
+            android:title="@string/nav_nangcap" />
+    </group>
+</menu>
